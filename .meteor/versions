@@ -58,7 +58,6 @@ meteor@1.1.11-modules.2
 meteor-base@1.0.1
 meteor-env-dev@0.0.1-modules.2
 meteor-env-prod@0.0.1-modules.2
-meteortoys:toykit@2.2.1
 minifiers-css@1.1.8-modules.2
 minifiers-js@1.1.8-modules.2
 minimongo@1.0.11-modules.2
@@ -68,7 +67,6 @@ modules@0.4.1-modules.2
 momentjs:moment@2.10.6
 mongo@1.1.4-modules.2
 mongo-id@1.0.1
-msavin:jetsetter@1.5.2
 npm-bcrypt@0.7.8_2
 npm-mongo@1.4.40-modules.2
 observe-sequence@1.0.8-modules.2
